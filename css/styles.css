@@ -160,11 +160,7 @@ sup {
 }
 
 a {
-<<<<<<< HEAD
   color: var(--root);
-=======
-  color: #d872bb;
->>>>>>> 9534f82fe001cb7f4d471d36cefc3d41936d34d2
   text-decoration: none;
   background-color: transparent;
 }
@@ -6080,11 +6076,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-<<<<<<< HEAD
   background-color: var(--root) !important;
-=======
-  background-color: #d872bb !important;
->>>>>>> 9534f82fe001cb7f4d471d36cefc3d41936d34d2
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9786,11 +9778,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-<<<<<<< HEAD
   color: var(--root) !important;
-=======
-  color: #d872bb !important;
->>>>>>> 9534f82fe001cb7f4d471d36cefc3d41936d34d2
 }
 
 a.text-primary:hover, a.text-primary:focus {
